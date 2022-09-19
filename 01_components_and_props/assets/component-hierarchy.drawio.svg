@@ -1,7 +1,11 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="691px" height="412px" viewBox="-0.5 -0.5 691 412" content="&lt;mxfile&gt;&lt;diagram id=&quot;6IEuy29URn_RdZbZPRW5&quot; name=&quot;Page-1&quot;&gt;zZddb4IwFIZ/DfeUIurl5nQu2ZIlXuy6oWfQBSipVXS/fkUOYgX3kRnwyvbtael5OH2pDp2lu0fF8vhFckgcz+U7hz44nkc8l5ifUtlXCqWjSoiU4BjUCCvxCSi6qG4Eh7UVqKVMtMhtMZRZBqG2NKaULOywd5nYT81ZBC1hFbKkrb4JruNKnYzcRl+CiOL6ycTFkZTVwSisY8ZlcSLRuUNnSkpdtdLdDJISXs2lmre4MHrcmIJM/2aCV03YsmSDueG+9L5OVslNxqGMdx16X8RCwypnYTlamNdrtFiniekR08TlQGnYXdwSOSZqKgRkClrtTQhOmCCavd0tGtDBFLX4BLJfFwfDlxsdV27yNw1E0I3Db+FYSAXRAcFf0Y5/RgvclBV2M5lBF8sy5iJJ3O9ablSIUXiSNFMRYFTQzVtBwrTY2qv/h970ZjKe9JQxITeTMnF7ynnUSvkuz3twDf9b16CBbRuEtH2DeB2+EVzBNoIWkiUwDmpwKsS3qXh+j1QmLSqvSn6Y77Hx1HRwNOcF0ysaQofxjfpQWMbh9WWW7qWCeBZrPXhBjMZDFkT7InbC5knD8AfmnA/tuJldi4/pNnfgw9jJPwk6/wI=&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="691px" height="411px" viewBox="-0.5 -0.5 691 411" content="&lt;mxfile&gt;&lt;diagram id=&quot;6IEuy29URn_RdZbZPRW5&quot; name=&quot;Page-1&quot;&gt;xZhLj5swEMc/DdcK8wp73Cb7klpppRzaPVowBa8AI+ME6KevCXbAmLRU2oVT7L+f85uxB8dy93nzxHCZfqcxZJZjx43lHizHQQiF4qdT2l7xgl0vJIzEstMgHMlvkKIt1ROJodI6ckozTkpdjGhRQMQ1DTNGa73bL5rpq5Y4AUM4Rjgz1R8k5mmvhr496M9AklStjGzZkmPVWQpVimNajyT3wXL3jFLel/JmD1kHT3Hpxz3eaL1ujEHBlwxw+gFnnJ2kbXJfvFXGMnoqYuj625b7tU4Jh2OJo661Fu4VWsrzTNSQKJrryy2dgXFoRpLczxPQHDhrRRfZGko0rV6tB9DBndTSEWRPBQeWzk2uMw/2i4JEcIOf/28eUMT3XQyJWpThqiLRHAKIjRCaMDEBjEz0ZyxUGoMMc3LWp5+zWq7wSolY+MrXs3XAzm4CrqInFoEcNY6d6UT+ZCJnMhHHLAFuTHRxwtXsZX4JTDcIwEdZLWgBuhOgIfynDNmu/DbSD82o4dCqSiF2cxnyxVfVt3HbMOxSU+OWults/sJVv8l6RFLz5sNisb+XRrlnBPkjZZBcDvr/XiC7BQfmr54yF/RMXL5JK5gFvwK9u60sDreyGKGtTFbHZH2bzURwX5YfnRvVQVycG91Av3IRMrMjcmZyR/AByTEwkDwDjoFtTgV5k0TkrUglNKi8MvouvjrFnZpvjmYaMKuiQe4q98ZsLnU2uyztWwHxjVR884Dwd1sGhPncGLF54bD9gZnycWfeH5/Hx/wy+wQ+BowZZDf5XJ9ZK/AR1eEl3L8ahv8T3Ic/&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <rect x="0" y="0" width="690" height="410" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 320 190 L 365.5 144.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 369.21 140.79 L 366.73 148.22 L 365.5 144.5 L 361.78 143.27 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 490 220 L 394.97 296.02" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 390.87 299.3 L 394.15 292.2 L 394.97 296.02 L 398.53 297.66 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
         <path d="M 289.23 90 L 176.25 156.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 171.73 159.43 L 175.98 152.86 L 176.25 156.76 L 179.54 158.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
         <path d="M 340 90 L 340 153.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
@@ -91,6 +95,23 @@
                     </div>
                 </foreignObject>
                 <text x="550" y="334" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ProjectListItem
+                </text>
+            </switch>
+        </g>
+        <rect x="330" y="300" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 330px; margin-left: 331px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                ProjectListItem
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="390" y="334" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
                     ProjectListItem
                 </text>
             </switch>
