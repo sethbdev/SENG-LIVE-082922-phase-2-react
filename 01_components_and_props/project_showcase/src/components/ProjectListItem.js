@@ -1,17 +1,20 @@
-import projects from "../projects"
-
-const ProjectListItem = (props) => {
+const ProjectListItem = ({ project }) => {
+    console.log(project);
     return (
-        <li className="card">
-            <figure className="image">
-                <img src={projects.image} alt={`${project.name} app`} />
-            </figure>
-            <section className="details">
-                <h4>Great Outdoors Guide</h4>
-                <p>Plan your next adventure to in the U.S. National Parks</p>
-                <p></p>
-            </section>
-
-        </li>
-    )
-}
+      <li className="card">
+        <figure className="image">
+          <img src={project.image} alt={`${project.name} app`} />
+        </figure>
+        <section className="details">
+          <h4>{project.name}</h4>
+          <p>{project.about}</p>
+          <p><a href={project.link}>Link</a></p>
+        </section>
+        <footer className="extra">
+          <span className="badge blue">Phase {project.phase}</span>
+        </footer>
+      </li>
+    );
+  }
+  
+  export default ProjectListItem;
